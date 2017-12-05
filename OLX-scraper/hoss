@@ -1,0 +1,75 @@
+<NotepadPlus>
+    <Project name="dsad">
+        <Folder name=".idea">
+            <File name="F:\xampp\htdocs\olx-scrapper\.idea\misc.xml" />
+            <File name="F:\xampp\htdocs\olx-scrapper\.idea\modules.xml" />
+            <File name="F:\xampp\htdocs\olx-scrapper\.idea\olx-scrapper.iml" />
+            <File name="F:\xampp\htdocs\olx-scrapper\.idea\php.xml" />
+            <File name="F:\xampp\htdocs\olx-scrapper\.idea\vcs.xml" />
+            <File name="F:\xampp\htdocs\olx-scrapper\.idea\workspace.xml" />
+        </Folder>
+        <Folder name="Goutte-master">
+            <Folder name="Goutte">
+                <Folder name="Resources">
+                    <File name="F:\xampp\htdocs\olx-scrapper\Goutte-master\Goutte\Resources\phar-stub.php" />
+                </Folder>
+                <Folder name="Tests">
+                    <File name="F:\xampp\htdocs\olx-scrapper\Goutte-master\Goutte\Tests\ClientTest.php" />
+                    <File name="F:\xampp\htdocs\olx-scrapper\Goutte-master\Goutte\Tests\fixtures.txt" />
+                </Folder>
+                <File name="F:\xampp\htdocs\olx-scrapper\Goutte-master\Goutte\Client.php" />
+            </Folder>
+            <File name="F:\xampp\htdocs\olx-scrapper\Goutte-master\.gitignore" />
+            <File name="F:\xampp\htdocs\olx-scrapper\Goutte-master\.travis.yml" />
+            <File name="F:\xampp\htdocs\olx-scrapper\Goutte-master\box.json" />
+            <File name="F:\xampp\htdocs\olx-scrapper\Goutte-master\composer.json" />
+            <File name="F:\xampp\htdocs\olx-scrapper\Goutte-master\LICENSE" />
+            <File name="F:\xampp\htdocs\olx-scrapper\Goutte-master\phpunit.xml.dist" />
+            <File name="F:\xampp\htdocs\olx-scrapper\Goutte-master\README.rst" />
+        </Folder>
+        <Folder name="OLX-scraper">
+            <Folder name="example">
+                <Folder name="src">
+                    <File name="example\src\OLXscraper.php" />
+                    <File name="example\src\simple_html_dom.php" />
+                </Folder>
+                <File name="example\index.php" />
+                <File name="example\style.css" />
+            </Folder>
+            <Folder name="lessql">
+                <Folder name="src">
+                    <Folder name="LessQL">
+                        <File name="lessql\src\LessQL\Database.php" />
+                        <File name="lessql\src\LessQL\Literal.php" />
+                        <File name="lessql\src\LessQL\Result.php" />
+                        <File name="lessql\src\LessQL\Row.php" />
+                    </Folder>
+                    <File name="lessql\src\JsonSerializable.php" />
+                </Folder>
+                <Folder name="tests">
+                    <File name="lessql\tests\.gitignore" />
+                    <File name="lessql\tests\BaseTest.php" />
+                    <File name="lessql\tests\DatabaseTest.php" />
+                    <File name="lessql\tests\ResultTest.php" />
+                    <File name="lessql\tests\RowTest.php" />
+                </Folder>
+                <File name="lessql\.gitignore" />
+                <File name="lessql\.travis.yml" />
+                <File name="lessql\CHANGELOG.md" />
+                <File name="lessql\composer.json" />
+                <File name="lessql\LICENSE.md" />
+                <File name="lessql\README.md" />
+            </Folder>
+            <File name="LICENSE.md" />
+            <File name="listpage.php" />
+            <File name="listpage_.php" />
+            <File name="OLXscraper.php" />
+            <File name="README.md" />
+            <File name="scanpage.php" />
+            <File name="simple_html_dom.php" />
+        </Folder>
+        <Folder name="olx-scrapper" />
+        <File name="F:\xampp\htdocs\olx-scrapper\olx.clpprj" />
+        <File name="F:\xampp\htdocs\olx-scrapper\olx_scrap.sql" />
+    </Project>
+</NotepadPlus>
